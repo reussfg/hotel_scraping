@@ -1,5 +1,5 @@
 # hotel_scraping
-This project has the goal of making a Web Scraping Program to dig the web URL of Hotels.
+This project has the goal of making a Web Scraping code to dig web URL of Hotels.
 The code was designed to a specific website called 'hotels.com'.
 You must insert the specific link of the search page, that is, the *input* you must enter is the specific page of the search.
 For an example:
